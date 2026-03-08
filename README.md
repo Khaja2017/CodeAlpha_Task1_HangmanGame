@@ -1,4 +1,4 @@
-# Hangman Game - Task 1
+ # Hangman Game - Task 1
 
 This is a simple **Hangman Game** built using Python.
 
