@@ -1,5 +1,5 @@
 import random
-
+ 
 # Predefined word list
 words = ["python", "apple", "tiger", "laptop", "ocean"]
 
